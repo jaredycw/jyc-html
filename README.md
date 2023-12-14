@@ -5,5 +5,5 @@ Including pages and components.
 
 👉 [Index](https://jaredycw.github.io/jyc-html/)
 👉 [Archive](https://jaredycw.github.io/jyc-html/archive)
-👉 [Post]((https://jaredycw.github.io/jyc-html/post)https://jaredycw.github.io/jyc-html/post)
+👉 [Post](https://jaredycw.github.io/jyc-html/post)https://jaredycw.github.io/jyc-html/post)
 👉 [Guideline](https://jaredycw.github.io/jyc-html/guideline)
