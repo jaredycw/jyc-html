@@ -7,3 +7,7 @@ Including pages and components.
 👉 [Archive](https://jaredycw.github.io/jyc-html/archive)\
 👉 [Post](https://jaredycw.github.io/jyc-html/post)\
 👉 [Guideline](https://jaredycw.github.io/jyc-html/guideline) 
+
+
+
+👉 [Final PRD](https://www.jaredyeung.com/) 
