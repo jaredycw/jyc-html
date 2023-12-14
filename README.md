@@ -1,4 +1,4 @@
 # jyc-html
-JYC [before JYZ] draft html
-Blog draft
+JYC (before named JYZ) draft html
+Blog and portfolio draft
 Including pages and components.
